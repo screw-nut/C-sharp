@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task3\\Task3.csproj",
-      "projectName": "Task3",
-      "projectPath": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task4\\Task4.csproj",
+      "projectName": "Task4",
+      "projectPath": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task4\\Task4.csproj",
       "packagesPath": "C:\\Users\\sekar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\sekar\\OneDrive\\Рабочий стол\\SemC\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sekar\\AppData\\Roaming\\NuGet\\NuGet.Config"
