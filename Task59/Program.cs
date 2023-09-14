@@ -61,7 +61,6 @@ void WriteArray(int[,] array)
         Console.WriteLine();
     }
 }
-
 int[,] FindPositionSmallElement(int[,] array, int[,] position)
 {
     int temp = array[0, 0];
