@@ -1,0 +1,15 @@
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\bin\Debug\net7.0\Task59.exe
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\bin\Debug\net7.0\Task59.deps.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\bin\Debug\net7.0\Task59.runtimeconfig.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\bin\Debug\net7.0\Task59.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\bin\Debug\net7.0\Task59.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.csproj.AssemblyReference.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.AssemblyInfoInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.AssemblyInfo.cs
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.csproj.CoreCompileInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\refint\Task59.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\Task59.genruntimeconfig.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task59\obj\Debug\net7.0\ref\Task59.dll
