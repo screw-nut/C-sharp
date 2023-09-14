@@ -6,18 +6,18 @@ int min = Read("Введите минимальное число массива:
 int max = Read("Введите максимальное число массива: ");
 
 
-int [] array = new int[size];
+double [] array = new double[size];
 
 ArrayRandom(array);
 PrintArray(array);
 
-int result = differenceMinMax(array);
+double result = differenceMinMax(array);
 Console.WriteLine(result);
 
 
 //Функции
 
-void ArrayRandom(int [] arr) //Заполнение массива
+void ArrayRandom(double[] arr) //Заполнение массива
 {
     for (int i = 0; i < arr.Length; i++)
     {
@@ -25,7 +25,7 @@ void ArrayRandom(int [] arr) //Заполнение массива
     }
 }
 
-void PrintArray(int[] arr) // вывод на экран сгенерированного массива
+void PrintArray(double[] arr) // вывод на экран сгенерированного массива
 {
     for (int i = 0; i < arr.Length; i++)
     {
@@ -42,9 +42,9 @@ int Read(string message)
 
 int differenceMinMax(int[] arr)
 {
-    int max = arr[0];
-    int min = arr[0];
-    int res = 0;
+    double max = arr[0];
+    double min = arr[0];
+    double res = 0;
     for (int i = 0; i < arr.Length; i++)
     {
         if (arr[i] > max)

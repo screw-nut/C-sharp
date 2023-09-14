@@ -1,0 +1,15 @@
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.csproj.AssemblyReference.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.AssemblyInfoInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.AssemblyInfo.cs
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.csproj.CoreCompileInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\bin\Debug\net7.0\Task_7_1.exe
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\bin\Debug\net7.0\Task_7_1.deps.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\bin\Debug\net7.0\Task_7_1.runtimeconfig.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\bin\Debug\net7.0\Task_7_1.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\bin\Debug\net7.0\Task_7_1.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\refint\Task_7_1.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\Task_7_1.genruntimeconfig.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task_7_1\obj\Debug\net7.0\ref\Task_7_1.dll
