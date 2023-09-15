@@ -1,0 +1,15 @@
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\bin\Debug\net7.0\Task68.exe
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\bin\Debug\net7.0\Task68.deps.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\bin\Debug\net7.0\Task68.runtimeconfig.json
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\bin\Debug\net7.0\Task68.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\bin\Debug\net7.0\Task68.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.csproj.AssemblyReference.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.AssemblyInfoInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.AssemblyInfo.cs
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.csproj.CoreCompileInputs.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\refint\Task68.dll
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.pdb
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\Task68.genruntimeconfig.cache
+C:\Users\sekar\OneDrive\Рабочий стол\SemC\Task68\obj\Debug\net7.0\ref\Task68.dll
