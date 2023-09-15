@@ -20,6 +20,8 @@ void NaturalNamber(int n, int count)
 }
 
 //Тело
+Console.Clear();
+
 int count = 1;
 int n = 0;
 n = InputNumbers("Введите число N: ");
